@@ -1,0 +1,145 @@
+.lastdiv{
+    color: white;
+    background-color: rgb(107, 49, 107);
+    display: flex;
+}
+.number3{
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 85px ;
+
+}
+.number2{
+    margin-top: 60px;
+    margin-left: 40px;
+    padding: 50px;
+}
+.lastclass{
+    font-size: 40px;
+    height: 30px;
+}
+.number4{
+    margin-top: 85px ; 
+    margin-left: 40px;
+}
+.number5{
+    margin-top: 85px ;
+    margin-left: 40px;
+}
+.number1{
+    margin-top: -30px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.socialmedia{
+    display:table;
+    margin-left: 100px;
+}
+.extreme{
+    background-color: rgb(107, 49, 107);
+    
+    padding: 30px;
+    height: 40px;
+
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: rgb(107, 49, 107);
+    color: white;
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+  .active2{
+    background-color: rgb(233, 225, 233);
+  }
+  .refac{
+    height: 30px;
+    width: 30px;
+  }
+  .nav-order{
+    margin-left: 700px;
+    font-size: 70px;
+    margin-top: 40px;
+  }
+  .refactory-colour{
+    color: rgb(107, 49, 107);
+    font-size: 40px;
+  }
+  .purple{
+    background-color: rgb(107, 49, 107);
+    padding: 140px;
+    margin-bottom: 90px;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .blog{
+    color: white;
+  }
+  .center{
+    align-items: left;
+  }
+  .center2{
+    text-align: center;
+    margin-bottom: 100px;
+  }
+  .flexcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    order: 3;
+    
+}
+.item{
+    line-height: 1;
+    margin: 10px;
+}
+.items{
+    line-height: 1;
+    padding: 20px;
+    margin: 10px;
+    justify-content: right;
+}
+.button1{
+    background-color:rgb(107, 49, 107) ;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+margin-left: 400px;
+margin-bottom: 30px;
+  }
+.button{
+    background-color:rgb(107, 49, 107) ;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 0px;
+}
